@@ -1,0 +1,14 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    a{
+        margin-left: 10%;
+        padding-top: 5%;
+    }
+    img{
+        width: 70%;
+    }
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ }
